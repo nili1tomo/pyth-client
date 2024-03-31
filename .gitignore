@@ -1,13 +1,1 @@
-*.swp
-build
-debug
-target
-cmake-build-*
-/venv
 
-# IntelliJ / CLion configuration
-.idea
-*.iml
-
-# CMake files
-features.h
